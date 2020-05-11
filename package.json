@@ -2,13 +2,16 @@
   "name": "api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "json-server -p 3001 -w db.json"
+    "start": "nodemon src/index.js localhost 8080"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
   }
 }
