@@ -1,0 +1,10 @@
+{
+  "payments": [
+    {
+      "description": "disparay olvida matra magic",
+      "datePicker": "2020-05-25T06:00:00.000Z",
+      "currencyInput": "44.00",
+      "id": 7
+    }
+  ]
+}
