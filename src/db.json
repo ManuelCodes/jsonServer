@@ -1,0 +1,16 @@
+{
+  "payments": [
+    {
+      "description": "misil exocet es mejor que el harpoon",
+      "datePicker": "2020-05-25T06:00:00.000Z",
+      "currencyInput": "44.00",
+      "id": 7
+    },
+    {
+      "datePicker": "2020-05-19T06:00:00.000Z",
+      "currencyInput": "55.53",
+      "description": "Gato\nCat\nChat\n\nPerro\nDog\nChien",
+      "id": 8
+    }
+  ]
+}
